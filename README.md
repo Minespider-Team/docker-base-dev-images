@@ -1,5 +1,3 @@
-[![Build Status](http://drone.staging.minespider.com/api/badges/minespider/sdk.core.minespider.com/status.svg?ref=refs/heads/master)](http://drone.staging.minespider.com/minespider/sdk.core.minespider.com)
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">

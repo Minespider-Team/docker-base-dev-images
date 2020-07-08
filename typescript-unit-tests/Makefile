@@ -17,9 +17,9 @@ build:
 
 .PHONY: build-tagged
 build-tagged:
-	DOCKER_BUILDKIT=1 docker build --target development --tag $(IMAGE):$(TAG) .
+	DOCKER_BUILDKIT=1 docker build --target development --progress=plain --tag $(IMAGE):$(TAG) .
 
 
 .PHONY: build-latest
 build-latest:
-	DOCKER_BUILDKIT=1 docker build --target development --tag $(IMAGE):latest .
+	DOCKER_BUILDKIT=1 docker build --target development --progress=plain --tag $(IMAGE):latest .
