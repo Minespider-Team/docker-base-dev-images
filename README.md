@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Minespider-Team/docker-base-dev-images">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="docs/images/logo.png" alt="Logo" width="140">
   </a>
 
   <h3 align="center">DOCKER BASE DEVELOPMENT IMAGES</h3>
@@ -33,8 +33,8 @@ This project was created to manage and publish generic images to a public reposi
 
 * unit tests;
 * e2e tests;
+* application development;
 * build multi-staging needs;
-
 
 ## Getting Started
 
@@ -47,11 +47,15 @@ You can clone the respository and check the root directories. Each directory has
 Follow the links to find instruction of how to install the following softwares in your enviroment:
 
 * [make](https://www.google.com/search?q=make+command+how+to+install&oq=make+command+how+to+install)
+* [jq](https://shapeshed.com/jq-json/)
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Git flow](https://github.com/nvie/gitflow/wiki/Installation)
 * [Docker](https://www.docker.com/)
 
-**IMPORTANT:** make commando will vary according to your operating system.
+**IMPORTANT NOTES:**
+
+* `make` command may vary according to your operating system.
+* `jq` command may vary according to your operating system.
 
 ### Usage
 

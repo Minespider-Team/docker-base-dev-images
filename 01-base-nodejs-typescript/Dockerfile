@@ -1,4 +1,4 @@
-FROM node:14.5-alpine AS development
+FROM node:12.18-alpine AS base
 
 RUN apk update && apk add --virtual build-dependencies
 RUN apk add git \
