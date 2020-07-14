@@ -1,18 +1,25 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<div align="center">
   <a href="https://github.com/Minespider-Team/docker-base-dev-images">
     <img src="docs/images/logo.png" alt="Logo" width="140">
   </a>
 
   <h3 align="center">DOCKER BASE DEVELOPMENT IMAGES</h3>
 
-  <p align="center">
+  <div align="center">
     Handles base images for develop enviroment to support Minespider libraries application needs like tests, mult-staging builds, etc..
+    <!-- <br />
+    <a href="#"><strong>Documentation »</strong></a> -->
     <br />
-    <a href="https://hub.docker.com/hugoseabra/minespider-base-dev-images"><strong>Dockerhub »</strong></a>
-  </p>
-</p>
+    <br />
+    <a target="_bank" href="https://hub.docker.com/r/hugoseabra19/base-nodejs-typescript">Docker Base NodeJS and Typescript Image</a>
+    <!-- ·
+    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo/issues">Request Feature</a> -->
+  </div>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
